@@ -2,7 +2,6 @@
 from bs4 import BeautifulSoup
 import urllib.request
 import requests
-import MySQLdb
 
 fighter_records = []
 #change this range to scrape more fighters by their id
